@@ -15,7 +15,7 @@ public class EtouchApplication {
 
     @RequestMapping("/")
     String home() {
-        return "Hello World!1";
+        return "这是运维系统V20181130";
     }
 }
 
